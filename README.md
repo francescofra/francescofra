@@ -11,7 +11,7 @@ Welcome to my GitHub! 💻
 - Computer Vision
 - Distributed and Cloud Systems
 - AI Safety & Security
-- Optimization Algorithms
+- Algorithms
 
 ## 🎓 Background
 
