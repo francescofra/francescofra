@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Francesco 👋
 
-<!--
-**francescofra/francescofra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Computer Science student at Sapienza University of Rome.
 
-Here are some ideas to get you started:
+Welcome to my GitHub! 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎨 Interests
+
+- Machine Learning
+- Data Science
+- Computer Vision
+- Distributed and Cloud Systems
+- AI Safety & Security
+- Optimization Algorithms
+
+---
+
+## 🎓 Background
+
+B.Sc. in Computer and Control Engineering - Sapienza University of Rome ⚙️
+
+---
+
+## ⚒️ Tech Stack
+
+**Programming Languages**: Python, C/C++, Java, Assembly (ARM/x86), AMPL, JavaScript, PHP
+
+**AI/ML Frameworks**: PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe
+
+**Backend and Infrastructure**: Docker, FastAPI, AWS, MariaDB, XAMPP, Git
+
+**Other Tools**: Linux, Jupyter, LaTex
+
+---
+
+## 📭 Contact
+
+I’m always open for collaborations and projects, feel free to reach out!
+
+- www.linkedin.com/in/francesco-fratello-6b8782362
+
+- francesco.fratello02@gmail.com
