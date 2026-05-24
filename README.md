@@ -15,17 +15,19 @@ Welcome to my GitHub! 💻
 
 ## 🎓 Background
 
-B.Sc. in Computer and Control Engineering - Sapienza University of Rome ⚙️
+B.Sc. in Computer and Control Engineering ⚙️ - Sapienza University of Rome
 
 ## ⚒️ Tech Stack
 
-**Programming Languages**: Python, C/C++, Java, Assembly (ARM/x86), AMPL, JavaScript, PHP
+**Programming Languages**: Python, C/C++, Java, Assembly (ARM/x86), JavaScript, PHP, SQL
 
-**AI/ML Frameworks**: PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe
+**Scientific Computing**: MATLAB, AMPL
 
-**Backend and Infrastructure**: Docker, FastAPI, AWS, MariaDB, XAMPP, Git
+**AI/ML**: PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe, Ollama
 
-**Other Tools**: Linux, Jupyter, LaTex
+**Backend & Infrastructure**: Docker, FastAPI, AWS, MySQL, MariaDB, Git
+
+**Tools**: Linux, Jupyter, LaTeX
 
 ## 📭 Contact
 
