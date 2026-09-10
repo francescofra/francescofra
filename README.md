@@ -1,6 +1,6 @@
 # Hi, I'm Francesco 👋
 
-M.Sc. Computer Science student at Sapienza University of Rome.
+Computer Science MSc student at Sapienza University of Rome.
 
 Welcome to my GitHub! 💻
 
@@ -16,16 +16,17 @@ Welcome to my GitHub! 💻
 ## 🎓 Background
 
 B.Sc. in Computer and Control Engineering ⚙️ - Sapienza University of Rome
+Erasmus+ Exchange - Higher Technical School of Engineering, University of Málaga
 
-## ⚒️ Tech Stack
+## ⚒️ Skills
 
-**Programming Languages**: Python, C/C++, Java, Assembly (ARM/x86), JavaScript, PHP, SQL
+**Languages**: Python, C/C++, Java, Javascript, Assembly (ARM/x86), SQL
 
 **Scientific Computing**: MATLAB, AMPL
 
 **AI/ML**: PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe, Ollama
 
-**Backend & Infrastructure**: Docker, FastAPI, AWS, MySQL, MariaDB, Git
+**Backend & Infrastructure**: Docker, FastAPI, AWS, K8s, MySQL, MariaDB, Git
 
 **Tools**: Linux, Jupyter, LaTeX
 
