@@ -16,6 +16,7 @@ Welcome to my GitHub! 💻
 ## 🎓 Background
 
 B.Sc. in Computer and Control Engineering ⚙️ - Sapienza University of Rome
+
 Erasmus+ Exchange - Higher Technical School of Engineering, University of Málaga
 
 ## ⚒️ Skills
